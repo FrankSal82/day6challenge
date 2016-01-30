@@ -1,6 +1,6 @@
 var theArray = [];
 function handleGoButtonClick(event) {
-		alert( );
+		alert("New element will be added to the array.");
 
 		domTextOutput(addElm());
 
